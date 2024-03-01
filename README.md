@@ -25,7 +25,3 @@ https://subtle-puppy-2238f4.netlify.app/
 
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
