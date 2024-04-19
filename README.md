@@ -20,7 +20,8 @@ https://subtle-puppy-2238f4.netlify.app/
 
 ## Tech Stack
 
-**Tech:** HTML5 , CSS , JavaScript
+**Tech:** HTML5 , CSS , JavaScript , netlify
+
 
 
 
